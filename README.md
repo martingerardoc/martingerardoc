@@ -111,7 +111,7 @@ Several RESTful APIs built using Node.js and Express implementing CRUD operation
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/martin-gerardo-cespedes
+- 💼 LinkedIn: https://www.linkedin.com/in/martin-cespedes
 - 🌐 GitHub: https://github.com/martingerardoc
 
 ---
